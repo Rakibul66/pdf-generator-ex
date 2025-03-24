@@ -1,16 +1,33 @@
-# pdfgenerator
+# 📘 Flutter PDF Invoice Generator (Example App)
 
-A new Flutter project.
+This Flutter application is a simple **example project** that demonstrates how to **generate PDF files** in Flutter.  
+The main purpose of this app is to show how to create PDF invoices and export them for sharing or saving.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Generate clean and professional PDF invoices
+- View or share generated PDFs
+- Easy-to-read Flutter code structure
+- Basic template suitable for business apps or eCommerce reports
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Use Case
+
+This repository is primarily intended as a learning or boilerplate example for:
+
+- Invoice creation
+- Report generation
+- PDF export from dynamic Flutter data
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository and run:
+
+```bash
+flutter pub get
+flutter run
